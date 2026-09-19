@@ -10,3 +10,4 @@ Tecnologias Utilizadas:
 - [ ] Ponto de Parada Atual:Criação do servidor web e conexão com os dados
 
       ⚠️ **Atenção:** O projeto está em fase inicial de construção. O servidor web e as rotas ainda não estão funcionais.
+      e ignorem os projetos vibercoders ><
